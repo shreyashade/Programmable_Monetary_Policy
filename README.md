@@ -32,7 +32,7 @@ This project provides a sophisticated economic simulation framework that demonst
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/shreyashade/enhanced-cbdc-simulation.git
+git clone https://github.com/shreyashade/Programmable_Monetary_Policy.git
 cd enhanced-cbdc-simulation
 ```
 
