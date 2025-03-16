@@ -10,6 +10,8 @@ A comprehensive simulation system for modeling the economic impacts of Central B
 
 This project provides a sophisticated economic simulation framework that demonstrates how a country with adopted CBDCs could control its economic future through programmable monetary policy. The simulation incorporates real-world economic data, transparent calculation processes, and natural language explanations to help users understand the complex interactions between CBDC features and economic outcomes.
 
+Creator's Note: This project is far from being done. I see cohesive strategies and seamless economic transitions in case of full CBDC adoption. I also have differing opinions on have it attacks privacy which is at the core of human rights. I do believe, however, that there is a solution that lies in here.
+
 ## Key Features
 
 - **Real-World Data Integration**: Initialize simulations with actual economic data from any country using World Bank indicators
